@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nikhil/Documents/Code/CS360/MAPF/AStarPlanner.h
+MAPFInstance.h
+/Users/nikhil/Documents/Code/CS360/MAPF/MAPFInstance.h
+ostream
+-
+tuple
+-
+
+/Users/nikhil/Documents/Code/CS360/MAPF/MAPFInstance.h
+vector
+-
+list
+-
+string
+-
+
+/Users/nikhil/Documents/Code/CS360/MAPF/PrioritizedSearch.cpp
+PrioritizedSearch.h
+/Users/nikhil/Documents/Code/CS360/MAPF/PrioritizedSearch.h
+iostream
+-
+
+/Users/nikhil/Documents/Code/CS360/MAPF/PrioritizedSearch.h
+AStarPlanner.h
+/Users/nikhil/Documents/Code/CS360/MAPF/AStarPlanner.h
+
